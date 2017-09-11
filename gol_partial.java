@@ -68,7 +68,6 @@ public class GOL{
 	public static String[] life(String[] dish){
 		String[] newGen= new String[dish.length];
 		
-        //TODO: implement this function
         
 		return newGen;
 	}
